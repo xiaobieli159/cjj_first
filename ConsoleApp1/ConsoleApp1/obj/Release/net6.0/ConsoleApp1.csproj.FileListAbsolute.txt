@@ -1,0 +1,15 @@
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.exe
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.deps.json
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.runtimeconfig.json
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.dll
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.pdb
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.dll
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\refint\ConsoleApp1.dll
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.pdb
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\ruanjianproject\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ref\ConsoleApp1.dll
